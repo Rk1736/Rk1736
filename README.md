@@ -1,6 +1,6 @@
-<h1 align="center">Hello World🐱‍🏍
-<h3 align="center">B.tech Electronic & communication Engineering(1st year)  .</h3>
-
+<h1 align="center">Hello World 🙋
+<h3 align="center">B.tech Electronic & communication Engineering(1st year) ⭐⭐⭐⭐⭐ on HacerRank .</h3>
+(Python)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rk1736&label=Profile%20views&color=0e75b6&style=flat" alt="rk1736" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rk1736" alt="rk1736" /></a> </p>
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **rk3472275@gmail.com**
 
-- ⚡ Fun fact **I think I am Creativity**
+- ⚡ Fun fact **I think I am Creative**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
