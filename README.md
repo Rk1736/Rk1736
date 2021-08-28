@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Rishav gupta</h1>
-<h3 align="center">Hi am ECE Student & I am Working a Project for android app Devlopment.</h3>
+<h1 align="center">Hello World🐱‍🏍
+<h3 align="center">Hi .</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rk1736&label=Profile%20views&color=0e75b6&style=flat" alt="rk1736" /> </p>
 
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/@rishavg779" target="blank"><img src="https://img.shields.io/twitter/follow/@rishavg779?logo=twitter&style=for-the-badge" alt="@rishavg779" /></a> </p>
 
-- 🔭 I’m currently working on **android app**
+- 🔭 I’m currently working on **Python Project**
 
 - 🌱 I’m currently learning **C++ JAVA**
 
