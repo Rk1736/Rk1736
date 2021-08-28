@@ -1,5 +1,5 @@
-<h1 align="center">Hello World 🙋
-<h3 align="center">B.tech Electronic & communication Engineering(1st year) ⭐⭐⭐⭐⭐ on HacerRank .</h3>
+<h1 align="center">Hello World 👋
+<h3 align="center">B.tech Electronic & communication Engineering(1st year) ⭐⭐⭐⭐⭐ on HackerRank .</h3>
 (Python)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rk1736&label=Profile%20views&color=0e75b6&style=flat" alt="rk1736" /> </p>
 
