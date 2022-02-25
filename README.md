@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/@rishavg779" target="blank"><img src="https://img.shields.io/twitter/follow/@rishavg779?logo=twitter&style=for-the-badge" alt="@rishavg779" /></a> </p>
 
-- 🔭 I’m currently working on **coding compition**
+- 🔭 I’m currently working on **python project**
 
 - 🌱 I’m currently learning **C++**
 
